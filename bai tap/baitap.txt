@@ -1,0 +1,227 @@
+Bài 1. Viết chương trình tìm ước số chung lớn nhất, bội số chung nhỏ nhất của hai số tự nhiên a 
+và b. 
+Bài 2. Viết chương trình chuyển đổi một số tự nhiên ở hệ cơ số 10 thành số ở hệ cơ số b 
+(b=2,8,16) 
+Bài 3. Hãy viết chương trình tính tổng các chữ số của một số nguyên bất kỳ. Ví dụ: Số 8545604 
+có tổng 
+Bài 4. Viết chương trình phân tích một số nguyên thành các thừa số nguyên tố. Ví dụ: Số 28 
+được phân tích thành 2 x 2 x 7 
+Bài 5. Viết chương trình liệt kê tất cả các số nguyên tố nhỏ hơn n cho trước 
+Bài 7. Dãy số Fibonacci được định nghĩa như sau: F0 =1, F1 = 1; Fn = Fn-1 + Fn-2 với n>=2. 
+Hãy viết chương trình tìm số Fibonacci thứ n. 
+Bài 8: Giải và biện luận phương trình ax+b=0 
+Bài 9: để có số tiền là 200000 vnđ. Cần phải có bao nhiêu từ tiền có mệnh giá 10000, 
+20000, 50000 vnđ. Tìm các khả năng 
+Bài 10: viết chương trình tìm các số có 3 chữ số sao cho tổng các chữ số cộng lại 
+bằng 9. In kết quả ra màn hình (ví dụ: 234 có tổng 3 chữ số: 2+3+4=9) 
+Bài 11: viết chương trình nhập vào 2 số a, b. tìm ước chung lớn nhất của 2 số . in kết 
+quả 
+Bài 12 một số hoàn hảo là số mà tổng các ước số của nó bằng chính nó. Hãy tìm các 
+số hoàn hảo<100. Ví dụ:  số  6 có các ước là 1,2,3 1+2+3=6 
+Bài 13: Viết chương trình nhập vào số nguyên n,x. tính biểu thức 
+Q=10+ex+e2x+e3x+….+enx 
+In kết quả 
+Bài 14: Nhập vào 3 số a, b, c. kiểm tra 3 số đó có tạo thành tam giác không? Nếu là 
+tam giác kiểm tra xem là tam giác cân, đều , vuông, thường. tù, Tính diện tích, chu 
+vi\ 
+Bài 15: Nhập vào một tháng, In ra số ngày trong tháng. Tìm ngày kế tiếp 
+Bài 16: viết chương trình nhập vào số nguyên n. tính biểu thức sau: 
+T=1*2+2*3+…+n*(n+1) 
+In kết quả ra màn hình 
+Bài 17: viết chương trình nhập vào số nguyên n. tính biểu thức 
+T=√1
+ +√3
+ +⋯+√𝑛
+Bài 18 viết chương trình giải bài toán cổ: “100 con trâu, 100 bó cỏ. Trâu đứng ăn 
+năm, trâu nằm ăn ba, lụ khụ trâu già ba con một bó”. Tìm số trâu đứng, trâu nằm,trâu 
+già 
+Bài 19: Viết chương trình nhập vào số nguyên n. kiểm tra n có phải là số nguyên tố 
+không 
+Bài 20: viết chương trình nhập vào số nguyên n 
+Tính n!!=  1*3*5*…*n (nếu n lẻ) 
+2*4*6*…*n( nếu n chẵn) 
+Bài 21: Nhập vào số nguyên n. tính tổng các số chẵn trong khoảng từ 1 đến n. In kết 
+quả ra màn hình 
+Bài 22. In ra các số hoàn hảo <100. (số hoàn hảo là số mà tổng các ước số của nó 
+bằng chính nó. Ví dụ 6 có các ước 1,2,3. 1+2+3=6) 
+Bài 23. Viết chương trình tìm các số có 3 chữ số, sao cho tổng các chữ số cộng lại 
+bằng 9. In ra màn hình 
+Bài 24: để có số tiền là 200000 vnđ. Cần phải có bao nhiêu từ tiền có mệnh giá 
+10000, 20000, 50000 vnđ. Tìm các khả năng 
+Bài 25: nhập vào x, n. tính 
+A=100+x/10-x/20+…+(-)x/10*n 
+Bài 26: tính tổng s=1+2+…+n (n là số nguyên dương nhập từ bàn phím) 
+Bài 27: Tính tích s=1*2*3*…*n ( n là số nguyên dương nhập từ bàn phím) 
+Bài 28: tính tổng lẻ: s= 1+3+5+…+(2*n+1) ( n là số nguyên dwong nhập từ bàn 
+phím) 
+Bài 29: Viết chương trình nhập vào số nguyên x, n. tính biểu thức:  
+T=100+𝑥
+ 10
+ − 𝑥
+ 20
+ +⋯+(−1)𝑛+1 𝑥
+ 10∗𝑛
+ Bài 30: viết chương trình nhập vào số nguyên n. thực hiện biểu thức: 
+T=100-10*2+10*3-…+(-)10*n 
+In kết quả ra màn hình 
+Bài 31: Viết chương trình nhập vào n. tính 
+A= √1
+ +√2
+ +⋯+√𝑛
+ Bài 32: Viết chương trình nhập vào x, n. Tính  
+T=100+x/2+x/3+…+x/n 
+In kết quả 
+Bài 33: viết chương trình nhập vào số nguyên n. thực hiện biểu thức: 
+T=100-20+30-…+(-)10*n 
+Bài 34: nhập vào x, n. tính 
+A=100+x/10-x/20+…+(-)x/10*n 
+Bài 35: viết chương trình nhập vào số nguyên k. tính 
+T=99− 1
+ 10
+ + 1
+ 20
+ −⋯+(−) 1
+ 10∗𝑛
+ In kết quả ra màn hình 
+Bài 36 viết chương trình nhập vào một số nguyên x, n. tính 
+T=10+2
+ 𝑥
+ +3
+ 𝑥
+ +⋯+𝑛
+ 𝑥
+ In kết quả ra màn hình 
+Bài 37: viết chương trình nhập vào số nguyên n. tính biểu thức 
+T=100+ 1
+ 2.3
+ + 1
+ 3.4
+ + 1
+ 4.5
+ In kết quả ra màn hình 
++⋯+ 1
+ 𝑛.(𝑛+1)
+ Bài 38: viết chương trình nhập thông tin sinh viên: hoten, tongdiem. 
+Xếp loại cho sinhvien. Nếu tongdiem<8 kém, 6<=tongdiem<7 trung 
+bình, 7<=tongidem<8 khá. Còn lại giỏi 
+Hãy in   thông tin hoten và xếp loại sinh viên 
+Bài 39: Viết chương trình dùng hàm thực hiện các yêu cầu sau:  
+a. nhập mảng n số thực 
+b. xuất mảng 
+c. In ra màn hình số lớn nhất.  
+d.  Sắp xếp lại dãy số theo trật tự tăng dần.  
+e.  Tính trung bình cộng các phần tử âm  
+Bài 45: Viết chương trình thực hiện các yêu cầu sau:  
+Nhập từ bàn phím một dãy số gồm n số thực. Yêu cầu:  
+a.  In ra màn hình số nhỏ nhất.  
+b.  Sắp xếp lại dãy số theo trật tự giảm dần.  
+c.  Tính trung bình cộng các phần tử không âm  
+In kết quả ra màn hình. 
+Bài 46: Viết chương trình nhập vào một dãy n số nguyên. 
+a. Tính tổng các số âm, các số dương 
+b. In các số chia hết cho 6 tận cùng bằng 2 
+Bài 47: Viết chương trình nhập vào một dãy n số nguyên. 
+a. Tính trung bình cộng các số dương và chia hết cho 3 
+b. Tìm phần tử nhỏ nhất. in kết quả 
+Bài 48. Viết chương trình nhập vào một dãy n số nguyên.  
+a. Tính trung bình cộng các số lẻ, các số chẵn 
+b. Sắp xếp mảng tăng dần 
+Bài 49: Viết chương trình nhập vào 1 dãy số nguyên.  
+a. Tính tổng các số không âm, in kết quả 
+b. Sắp xếp dãy số tăng dần. in kết quả 
+Bài 50: Viết chương trình nhập vào n số nguyên. 
+a. Tính trung bình cộng các số không âm, in kết quả 
+b. Đếm các số lẻ. in kết quả 
+DẠNG 3: MẢNG 2 CHIỀU:  
+Bài 51: viết chương trình nhập vào một mảng gồm n dòng, m cột. tính: 
+a. Tổng các phần tử có số tận cùng bằng 6. In kết quả 
+b. Tìm phần tử lớn nhất trong mảng. in kết quả 
+c. Đếm số phần tử chẵn chia hết cho 3 
+d. Tính tổng các phần tử ở hàng 2. In kết quả 
+e. Trung bình cộng các phần tử trên cột 2 
+f. Tìm phần tử lớn nhất 
+g. Đếm số phần tử chẵn chia hết cho 3 
+h. Tính tổng các phần tử nằm trên đường chéo chính. In kết quả 
+Bài 52: Viết chương trình nhập vào một mảng gồm n dòng, n cột, thực hiện 
+a. Đưa ra các phần tử trên đường chéo chính 
+b. Tính tổng các phần tử trên đường chéo chính 
+c. Đưa ra các phần tử trên đường chéo phụ 
+d. Tính tổng các phần tử trên đường chéo phụ 
+Bài 53  Viết chương trình thực hiện các yêu cầu sau:  
+Nhập dãy gồm n số nguyên dương. Xét xem trong dãy số có số chính  phương 
+(số chính phương là bình phương của 1 số, VD: 4, 9, 16...) không. Nếu có hãy 
+in ra màn hình các số chính phương. Từ đó tìm số chính phương lớn nhất, bé 
+nhất trong dãy. 
+Bài 54. Viết chương trình nhập dãy gồm n số thực. Đưa tất cả các số âm lÊn đầu, 
+các số dương xuống cuối và các số 0 đứng giữa, thứ tự không thay đổi. 
+Bài 55. Nhập ma trận các số thực gồm n hàng và m cột. Tính tổng các phần tử trên 
+đường viền của ma trận. Viết lại ma trận và kết quả ra màn hình. 
+Bài 56. Nhập ma trận vuông cấp n các số thực. Tính tổng các phần tử trên đường 
+chéo chính, đường chéo phụ. Viết lại ma trận và kết quả ra màn hình. 
+Bài 57. Nhập ma trận các số thực gồm n hàng và m cột. Nhập vào một số nguyên k 
+từ bàn phím, tính tổng các phần tử trên hàng k và cột k. Viết lại ma trận và kết quả 
+ra màn hình. 
+Bài 58. Nhập ma trận các số nguyên gồm n hàng và m cột. Sắp xếp lại các phần tử 
+của ma trận theo chiều tăng dần của cột và hàng. Viết lại ma trận ban đầu và ma 
+trận kết quả ra màn hình.  
+Bài 59. Nhập ma trận các số nguyên gồm n hàng và m cột. Sắp xếp lại các phần tử 
+của ma trận theo chiều giảm dần của cột và hàng. Viết lại ma trận ban đầu và ma 
+trận kết quả ra màn hình. 
+Bài 60: viết chương trình nhập một xâu 
+a. Kiểm tra xâu có phải đối xứng không? 
+b. Đảo ngược xâu 
+c. Chuyển xâu thành chữ in hoa 
+Bài 61: viết chương trình nhập vào một xâu kí tự. 
+a. Kiểm tra xâu có phải đỗi xứng không 
+b. Đếm số ký tự ‘X’ xuất hiện trong xâu 
+Bài 62: viết chương trình nhập vào một xâu 
+a. Đếm số ký tự dấu cách xuất hiện trong xâu 
+b. In ra xâu đảo ngược 
+Bài 63: Xây dựng cấu trúc sinh viên gồm: Masv, hoten, tongdiem, . Viết chương 
+trình nhập vào n sinh viên 
+a. In ra sinh viên có tổng điểm cao nhất 
+b. In ra màn hình danh sách thông tin đỗ (tongdiem>=17 
+Bài 64; xây dựng cấu trúc nhanvien gồm; manv, hoten, tuoi. Viết chương trình thực 
+hiện; 
+a. Nhập vào danh sách gồm n nhân viên 
+b. In ra các nhân viên ở độ tuổi nghỉ hưu(tuoi>=55: nghỉ hưu) 
+Bài 65: xây dựng cấu trúc sinh viên gồm: masv, hoten, tongdiem. Viết chương trình 
+nhập vào n sinh viên. Hãy xếp loại sinh viên nếu tongdiem>=8: loại giỏi, 
+7<=tongidem<8: loại khá. In ra kết quả 
+Bài 66: cấu trúc nhân viên gồm : manv, hoten, phongban. Viết chương trinh 
+thực hiện các yêu cầu sau: 
+a. Nhập vào danh sách nhân vien 
+b. In ra các nhân viên ở phòng kế toán 
+BÀI 67: Viết chương trình nhập thông tin sinh viên: hoten, tongdiem. Xếp loại cho 
+sinh viên. Nếu tongdiem<6: kém,  
+Nếu 6<=tongdiem<7: trung bình,  
+Nếu 7<=tongdiem<8: khá.  
+còn lại là giỏi. In thông tin hoten và xếp loại 
+Bài 68: Viết chương trình thực hiện các yêu cầu sau:  
+Xây dựng cấu trúc sinhvien gồm các thông tin sau: hoten, namsinh, diemtb.   
+Yêu cầu:  
+a.  Nhập vào danh sách n sinhvien.  
+b.  In  ra  màn  hình  danh  sách  các  sinh  viên  xếp  loại  khá  trở  lên  
+(7<=diemtb<8) 
+Bài 69: Viết chương trình thực hiện các yêu cầu sau:  
+Xây dựng cấu trúc sinhvien gồm các thông tin sau: hoten, namsinh, diemtb.   
+Yêu cầu:  
+a.  Nhập vào danh sách n sinhvien.  
+b.  In ra màn hình danh sách các sinh viên từ 20 tuổi trở xuống (tính đến  
+năm 2015) 
+Bài 70: Viết chương trình thực hiện các yêu cầu sau:  
+Xây dựng cấu trúc sinhvien gồm các thông tin sau: hoten, namsinh, diemtb.   
+Yêu cầu:  
+a.  Nhập vào danh sách n sinhvien.  
+b.  Sắp xếp và in ra màn hình danh sách sinh viên theo thứ tự giảm dần của diemtb   
+Bài 71: Viết chương trình thực hiện các yêu cầu sau:  
+Xây dựng cấu trúc sach gồm: masach, tensach, tacgia, namxb.  
+Yêu cầu:  
+a.  Nhập vào danh sách gồm n quyển sách.  
+b.  Tìm và in ra màn hình các quyển sách có tên “tin hoc dai cuong”  
+Bài 72: . Viết chương trình thực hiện các yêu cầu sau:  
+Xây dựng cấu trúc sach gồm: masach, tensach, tacgia, namxb.  
+Yêu cầu:  
+a.  Nhập vào danh sách gồm n quyển sách.  
+b.  Sắp xếp và in ra màn hình danh sách các quyển sách theo thứ tự abc của  
+tensach

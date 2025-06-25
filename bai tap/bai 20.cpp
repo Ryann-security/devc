@@ -1,16 +1,16 @@
 #include<stdio.h>
 int main(){
 	int n;
-	int tich=1; 
+	int t=1; 
 		printf("nhap so nguyen n: ");
 		scanf("%d",&n);
 	if(n % 2 == 0){
 		for(int i = 2; i <= n ; i += 2){
-			tich=tich*i;
+			t=t*i;
 		}
 	}else
 		for(int i = 1; i <= n; i+= 2 ){
-			tich=tich*i;
+			t=t*i;
 		}
-		printf("tich cua gia tri %d la:%d\n ",n,tich);
+		printf("tich cua gia tri %d la:%d\n ",n,t);
 }
